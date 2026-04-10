@@ -11,7 +11,7 @@ from PyQt5.QtGui import QPainter, QColor
 from matplotlib.backends.backend_qt5agg import FigureCanvasQTAgg as FigureCanvas
 from matplotlib.figure import Figure
 
-from src.path_planner import astar
+from src.path_planner import astar, bfs, dijkstra 
 
 
 # ===============================
