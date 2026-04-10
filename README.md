@@ -49,6 +49,15 @@ python -m src.gui_app
 
 ---
 
+
+## 📷 Output Screenshots
+
+### 🧭 Path Visualization
+![Path Output](assets/output1.png)
+
+### 🎨 Dark UI Interface
+![UI](assets/output2.png)
+
 ## 👨‍💻 Author
 
 Harshit V Shah
