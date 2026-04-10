@@ -53,11 +53,11 @@ python -m src.gui_app
 ## 📷 Output Screenshots
 
 ### 🧭 Path Visualization
-![Path Output](assets/output1.png)
+<p align="center">
+  <img src="assets/output1.png" width="650"/>
+</p>
 
-### 🎨 Dark UI Interface
-![UI](assets/output2.png)
-
-## 👨‍💻 Author
-
-Harshit V Shah
+### 🎨 Dark UI
+<p align="center">
+  <img src="assets/output2.png" width="650"/>
+</p>
